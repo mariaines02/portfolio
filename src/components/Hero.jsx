@@ -1,9 +1,3 @@
-/**
- * Components
- */
-
-import { ButtonPrimary, ButtonOutLine} from './Button';
-
 const Hero = () => {
   return (
     <section id="home" className="pt-28 lg:pt-36">
