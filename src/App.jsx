@@ -17,7 +17,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
 const App = () => {
-
+    console.log('App is mounting'); // Log de débogage
     return (
     <ReactLenis root>
         <Header />
