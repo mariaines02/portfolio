@@ -9,9 +9,7 @@ const sitemap = [
 
 const socials = [
   { label: 'GitHub', href: '' },
-  { label: 'LinkedIn', href: '' },
-  { label: 'Twitter X', href: '' },
-  { label: 'Instagram', href: '' },
+  { label: 'LinkedIn', href: '' }
 ];
 
 function Footer() {
