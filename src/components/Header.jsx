@@ -15,11 +15,11 @@ const Header = () => {
     <div className="max-w-screen-2xl w-full mx-auto px-4 flex justify-between items-center md:px-6 md:grid md:grid-cols-[1fr,3fr,1fr]">
             <h1>
                 <a 
-                    href="/" 
+                    href="./" 
                     className="logo"
                 >
                     <img 
-                        src="/images/logo.png" 
+                        src="./images/logo.png" 
                         width={2000}
                         height={200}
                         alt="Maria Inés Haddad" 
