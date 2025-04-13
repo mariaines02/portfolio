@@ -40,6 +40,16 @@ const skillItem = [
       desc: 'User Interface'
     },
     {
+      imgSrc: '/images/python.svg',
+      label: 'Python',
+      desc: 'Back-end'
+    },
+    {
+      imgSrc: '/images/django.svg',
+      label: 'Django',
+      desc: 'Framework'
+    },
+    {
       imgSrc: '/images/php.svg',
       label: 'PHP',
       desc: 'Back-end'

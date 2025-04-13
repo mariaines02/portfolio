@@ -8,8 +8,7 @@ const sitemap = [
 ];
 
 const socials = [
-  { label: 'GitHub', href: '' },
-  { label: 'LinkedIn', href: '' }
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/maria-ines-haddad-b3b936252/' }
 ];
 
 function Footer() {
